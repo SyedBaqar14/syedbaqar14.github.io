@@ -1,35 +1,35 @@
 [{
-		"quote_id":"6",
+		"quote_id":6,
 		"quoteTitle": "زہد",
 		"quote": "سب سے بڑازہد، زہد کو چھپانا ہے۔",
 		"itemEndPoint": "zahid.json"
 	},
 	{
-		"quote_id":"4",
+		"quote_id":4,
 		"quoteTitle": "صبر",
 		"quote": "بهترین صبر پسندیدہ شے سے صبر کرنا ہے۔",
 		"itemEndPoint": "sabar.json"
 	},
 	{
-		"quote_id":"5",
+		"quote_id":5,
 		"quoteTitle": "شفاعت",
 		"quote": "توبہ سے زیادہ کامیاب کوئی شفیع نہیں ۔",
 		"itemEndPoint": "shafaat.json"
 	},
 	{
-		"quote_id":"1",
+		"quote_id":1,
 		"quoteTitle": "عزم",
 		"quote": "دوراندیشی سے عزم ہوتا ہے۔",
 		"itemEndPoint": "aazam.json"
 	},
 	{
-		"quote_id":"3",
+		"quote_id":3,
 		"quoteTitle": "عاقبت",
 		"quote": "ہر آدی کی عاقبت ہے چاہے شیریں ہو یا تلخ۔",
 		"itemEndPoint": "aqbaat.json"
 	},
 	{
-		"quote_id":"2",
+		"quote_id":2,
 		"quoteTitle": "عدل",
 		"quote": "گمان پر بھروسہ کر کے فیصلہ کر دینا عدل نہیں ہے۔",
 		"itemEndPoint": "adaal.json"
