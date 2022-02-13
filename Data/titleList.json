@@ -45,5 +45,11 @@
 		"quoteTitle": "عاقبت",
 		"quote": "ہر آدی کی عاقبت ہے چاہے شیریں ہو یا تلخ۔",
 		"itemEndPoint": "aqbaat.json"
+	},
+	{
+		"quote_id":5,
+		"quoteTitle": "شفاعت",
+		"quote": "توبہ سے زیادہ کامیاب کوئی شفیع نہیں ۔",
+		"itemEndPoint": "shafaat.json"
 	}
 ]
