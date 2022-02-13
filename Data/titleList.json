@@ -33,5 +33,11 @@
 		"quoteTitle": "عدل",
 		"quote": "گمان پر بھروسہ کر کے فیصلہ کر دینا عدل نہیں ہے۔",
 		"itemEndPoint": "adaal.json"
+	},
+	{
+		"quote_id":4,
+		"quoteTitle": "صبر",
+		"quote": "بهترین صبر پسندیدہ شے سے صبر کرنا ہے۔",
+		"itemEndPoint": "sabar.json"
 	}
 ]
