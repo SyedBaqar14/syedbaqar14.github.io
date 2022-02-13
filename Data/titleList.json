@@ -39,5 +39,11 @@
 		"quoteTitle": "صبر",
 		"quote": "بهترین صبر پسندیدہ شے سے صبر کرنا ہے۔",
 		"itemEndPoint": "sabar.json"
+	},
+	{
+		"quote_id":3,
+		"quoteTitle": "عاقبت",
+		"quote": "ہر آدی کی عاقبت ہے چاہے شیریں ہو یا تلخ۔",
+		"itemEndPoint": "aqbaat.json"
 	}
 ]
