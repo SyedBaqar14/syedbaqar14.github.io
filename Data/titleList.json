@@ -11,6 +11,12 @@
 		"itemEndPoint": "sabar.json"
 	},
 	{
+		"quote_id":4,
+		"quoteTitle": "صبر",
+		"quote": "بهترین صبر پسندیدہ شے سے صبر کرنا ہے۔",
+		"itemEndPoint": "sabar.json"
+	},
+	{
 		"quote_id":5,
 		"quoteTitle": "شفاعت",
 		"quote": "توبہ سے زیادہ کامیاب کوئی شفیع نہیں ۔",
